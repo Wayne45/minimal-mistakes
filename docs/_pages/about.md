@@ -33,23 +33,6 @@ At Linksys, I split my time between **cloud architecture design (50%)** and **ha
 - Linksys admin console
 - Wemo accounts cloud and Alexa skill
 
-### Wattertek Inc. (2017 - 2019)
-
-**Backend Server Developer**
-- Built scalable systems using Scala, Cassandra, Spark, Kafka, and AWS
-- GraphQL API development
-- Big data behavior analysis
-- Server chatbot development
-
-### Gemtek Technologies (2011 - 2017)
-
-**Software/Firmware Engineer**
-- Developed clustering Akka systems with Scala, Cassandra, Spark, and Kafka
-- Built backend systems on AWS with automated recovery mechanisms
-- Worked on embedded systems: GPON, G.Fast, VDSL2, OLT/ONT products
-- VoIP software development (RFC 3261)
-- Collaborated with Broadcom, MediaTek, ALU, CHT
-
 ## Technical Skills
 
 | Category | Technologies |
